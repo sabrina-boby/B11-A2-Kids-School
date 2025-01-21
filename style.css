@@ -312,6 +312,9 @@ hr {
       margin: 0;
     }
   }
+  .icons img{
+    cursor: pointer;
+  }
 }
 
 @media screen and (max-width: 576px) {
